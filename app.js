@@ -32,7 +32,7 @@ var trivia = {
             q6:
             q7:
             q8:
-        }
+        },
         answers: {
             q1:
             q2: 
