@@ -12,4 +12,9 @@ body{
 .option{
   margin: 15px;
 }
-
+.btn{
+    background: blue;
+}
+.row{
+    float: left;
+}
